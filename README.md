@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0051-n-queens) |
 ## Binary Search
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
