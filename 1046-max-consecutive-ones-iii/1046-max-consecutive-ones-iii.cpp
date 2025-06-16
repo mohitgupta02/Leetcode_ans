@@ -10,9 +10,8 @@ public:
         while (r < n) {
             if (nums[r] == 0)
                 zeroes++;
-            while (zeroes>k) {
-                if (nums[l] == 0)
-                    zeroes--;
+            if (zeroes>k) {
+                if (nums[l] == 0) zeroes--;
                 l++;
             }
             if (zeroes <= k) {
