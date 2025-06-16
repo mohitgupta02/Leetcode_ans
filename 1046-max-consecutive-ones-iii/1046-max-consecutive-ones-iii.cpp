@@ -16,8 +16,8 @@ public:
             }
             if (zeroes <= k) {
                 len = r - l + 1;
+                maxLen = max(maxLen, len);
             }
-            maxLen = max(maxLen, len);
             r++;
         }
         return maxLen;
