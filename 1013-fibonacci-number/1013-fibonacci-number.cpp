@@ -1,23 +1,15 @@
 class Solution {
 public:
-    static vector<int>dp;
-    Solution() {
-        if(dp.empty()) dp.resize(31,-1);
-    }
     int fib(int n) {
         if(n<=1) return n;
-        int first,second;
+        int prev2 = 0;
+        int prev1 = 1;
+        for (int i = 2; i <= n; i++) {
+            int curi = prev2 + prev1;
+            prev2 = prev1;
+            prev1 = curi;
+        }
 
-        if(dp[n-1] != -1) first = dp[n-1];
-        else first = fib(n-1);
-
-        if(dp[n-2] != -1) second = dp[n-2];
-        else second = fib(n-2);
-
-        return dp[n] = first + second;
-
+        return prev1;
     }
 };
-
-
-vector<int> Solution::dp;
