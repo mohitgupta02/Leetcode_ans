@@ -14,8 +14,8 @@ public:
         if(n==1) return nums[0];
         vector<int>dp(n+1,-1);
         int ans1=solve(0,nums,n-1,dp);
-        vector<int>dp2(n+1,-1);
-        int ans2 = solve(1,nums,n,dp2);
+        dp.assign(n+1,-1);
+        int ans2 = solve(1,nums,n,dp);
         return max(ans1, ans2);
     }
 };
