@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,12 +74,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
