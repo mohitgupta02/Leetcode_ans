@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -60,17 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
