@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
 | [0907-koko-eating-bananas](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -56,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
