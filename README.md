@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
