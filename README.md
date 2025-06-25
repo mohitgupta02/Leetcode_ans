@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
@@ -103,4 +104,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Tree
+|  |
+| ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
