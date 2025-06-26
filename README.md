@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -108,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Sorting
 |  |
