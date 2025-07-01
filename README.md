@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0173-binary-search-tree-iterator) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0173-binary-search-tree-iterator) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Iterator
