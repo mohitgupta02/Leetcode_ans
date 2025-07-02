@@ -125,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
