@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
+| [0890-lemonade-change](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
+| [0890-lemonade-change](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0890-lemonade-change) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
