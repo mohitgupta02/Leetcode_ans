@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1073-number-of-enclaves) |
@@ -191,11 +193,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
