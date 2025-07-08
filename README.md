@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1073-number-of-enclaves) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1007-numbers-with-same-consecutive-differences) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
+| [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
 ## Design
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
@@ -240,5 +244,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
