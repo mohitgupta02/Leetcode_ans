@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0940-fruit-into-baskets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1007-numbers-with-same-consecutive-differences) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 ## Design
 |  |
 | ------- |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1073-number-of-enclaves) |
@@ -241,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1073-number-of-enclaves) |
 ## Bit Manipulation
