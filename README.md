@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0127-word-ladder) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
