@@ -2,53 +2,51 @@ class Solution {
 public:
     class DSU {
     public:
-        vector<int> parent, rank;
+        vector<int> parent;
         DSU(int n) {
             parent.resize(n);
-            rank.resize(n, 0);
             for (int i = 0; i < n; ++i)
                 parent[i] = i;
         }
-
         int find(int x) {
             if (parent[x] != x)
                 parent[x] = find(parent[x]);
             return parent[x];
         }
-
-        bool unite(int x, int y) {
-            int xr = find(x), yr = find(y);
-            if (xr == yr) return false;
-            if (rank[xr] < rank[yr]) parent[xr] = yr;
-            else if (rank[xr] > rank[yr]) parent[yr] = xr;
-            else {
-                parent[yr] = xr;
-                rank[xr]++;
-            }
-            return true;
+        void unite(int x, int y) {
+            parent[find(x)] = find(y);
         }
     };
 
     int minCost(int n, vector<vector<int>>& edges, int k) {
-        if (k >= n) return 0;
+        int low = 0, high = 0, answer = -1;
+        for (auto& edge : edges)
+            high = max(high, edge[2]); // max weight
 
-        sort(edges.begin(), edges.end(), [](const vector<int>& a, const vector<int>& b) {
-            return a[2] < b[2];
-        });
+        auto isValid = [&](int maxWeight) {
+            DSU dsu(n);
+            for (auto& edge : edges) {
+                int u = edge[0], v = edge[1], w = edge[2];
+                if (w <= maxWeight)
+                    dsu.unite(u, v);
+            }
 
-        DSU dsu(n);
-        int maxCost = 0;
-        int edgesUsed = 0;
+            unordered_set<int> components;
+            for (int i = 0; i < n; ++i)
+                components.insert(dsu.find(i));
+            return components.size() <= k;
+        };
 
-        for (auto& edge : edges) {
-            int u = edge[0], v = edge[1], w = edge[2];
-            if (dsu.unite(u, v)) {
-                maxCost = max(maxCost, w);
-                edgesUsed++;
-                if (edgesUsed == n - k) break;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+            if (isValid(mid)) {
+                answer = mid;
+                high = mid - 1; // try smaller max edge
+            } else {
+                low = mid + 1;  // need larger edges to connect
             }
         }
 
-        return maxCost;
+        return answer;
     }
 };
