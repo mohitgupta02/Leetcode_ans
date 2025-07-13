@@ -21,7 +21,7 @@ public:
     int minCost(int n, vector<vector<int>>& edges, int k) {
         int low = 0, high = 0, answer = -1;
         for (auto& edge : edges)
-            high = max(high, edge[2]); // max weight
+            high = max(high, edge[2]); 
 
         auto isValid = [&](int maxWeight) {
             DSU dsu(n);
@@ -41,9 +41,9 @@ public:
             int mid = (low + high) / 2;
             if (isValid(mid)) {
                 answer = mid;
-                high = mid - 1; // try smaller max edge
+                high = mid - 1; 
             } else {
-                low = mid + 1;  // need larger edges to connect
+                low = mid + 1;  
             }
         }
 
