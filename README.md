@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0055-jump-game) |
 | [0130-surrounded-regions](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0890-lemonade-change) |
