@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0890-lemonade-change) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
