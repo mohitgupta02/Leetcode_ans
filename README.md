@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
