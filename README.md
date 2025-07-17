@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0334-increasing-triplet-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2090-number-of-ways-to-arrive-at-destination) |
