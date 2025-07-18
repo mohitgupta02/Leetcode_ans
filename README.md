@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2808-painting-the-walls](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2808-painting-the-walls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Backtracking
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2808-painting-the-walls](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2808-painting-the-walls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Design
 |  |
 | ------- |
