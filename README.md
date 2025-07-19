@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1250-longest-common-subsequence](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
