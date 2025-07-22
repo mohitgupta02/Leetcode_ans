@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
