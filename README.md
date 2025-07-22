@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0496-next-greater-element-i) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0496-next-greater-element-i) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
