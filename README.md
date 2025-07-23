@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
+| [2227-sum-of-subarray-ranges](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2227-sum-of-subarray-ranges) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2808-painting-the-walls](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2808-painting-the-walls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2227-sum-of-subarray-ranges](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2227-sum-of-subarray-ranges](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
