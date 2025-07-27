@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0057-insert-interval) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0054-spiral-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Topological Sort
 |  |
