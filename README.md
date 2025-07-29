@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
