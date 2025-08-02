@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -325,11 +326,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0054-spiral-matrix) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Topological Sort
 |  |
