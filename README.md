@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1646-kth-missing-positive-number) |
 | [2227-sum-of-subarray-ranges](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2227-sum-of-subarray-ranges) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2808-painting-the-walls](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2808-painting-the-walls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1646-kth-missing-positive-number) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Math
 |  |
 | ------- |
