@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Union Find
