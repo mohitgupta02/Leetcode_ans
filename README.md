@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0231-power-of-two) |
 | [0935-orderly-queue](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1370-count-number-of-nice-subarrays) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
