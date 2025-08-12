@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0334-increasing-triplet-subsequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
