@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0046-permutations) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0127-word-ladder) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0085-maximal-rectangle) |
