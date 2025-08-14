@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
