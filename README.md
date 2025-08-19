@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0231-power-of-two) |
