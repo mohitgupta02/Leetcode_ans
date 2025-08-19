@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0042-trapping-rain-water) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0151-reverse-words-in-a-string) |
