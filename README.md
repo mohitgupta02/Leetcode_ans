@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0127-word-ladder) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0076-minimum-window-substring) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0231-power-of-two) |
 | [0935-orderly-queue](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0935-orderly-queue) |
