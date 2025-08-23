@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0937-online-stock-span) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Union Find
