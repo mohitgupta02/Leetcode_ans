@@ -11,70 +11,47 @@
  */
 
 class Solution {
-  public:
-    TreeNode* findTarget(TreeNode* root,int target){
-        if(root== nullptr) return nullptr;
-        if(root->val==target) return root;
-        
-        TreeNode* left = findTarget(root->left,target);
-        if(left) return left;
-        
-        return findTarget(root->right,target);
-        
+public:
+    int result = 0; // max time to infect entire tree
+
+    // Helper function to compute the depth of a subtree
+    int subtreeDepth(TreeNode* root) {
+        if (!root) return 0;
+        return 1 + max(subtreeDepth(root->left), subtreeDepth(root->right));
     }
-    
-    void markParent(TreeNode* root, unordered_map<TreeNode*,TreeNode*>&parent_track){
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* current = q.front();
-            q.pop();
-            if(current->left){
-                parent_track[current->left] = current;
-                q.push(current->left);
-            }
-            if(current->right){
-                parent_track[current->right] = current;
-                q.push(current->right);
-            }
+
+    // DFS returns distance from current node to target
+    int dfs(TreeNode* root, int target) {
+        if (!root) return -1;
+
+        if (root->val == target) {
+            // Compute infection time downward from target
+            int depth = subtreeDepth(root);
+            result = max(result, depth - 1);
+            return 0; // distance to target = 0
         }
+
+        int left = dfs(root->left, target);
+        if (left != -1) {
+            // target is in left subtree
+            int depth = subtreeDepth(root->right); // infection spreads into right subtree
+            result = max(result, left + 1 + depth);
+            return left + 1;
+        }
+
+        int right = dfs(root->right, target);
+        if (right != -1) {
+            // target is in right subtree
+            int depth = subtreeDepth(root->left); // infection spreads into left subtree
+            result = max(result, right + 1 + depth);
+            return right + 1;
+        }
+
+        return -1; // target not found in this subtree
     }
+
     int amountOfTime(TreeNode* root, int target) {
-        // code here
-        TreeNode* tar = findTarget(root,target);
-        
-        unordered_map<TreeNode*,TreeNode*>parent_track;
-        markParent(root,parent_track);
-
-        unordered_map<TreeNode*,bool>visited;
-        queue<TreeNode*>q;
-        q.push(tar);
-        visited[tar] = true;
-        int cur_level =0;
-        while(!q.empty()){
-            int size = q.size();
-
-                while(size--){
-                TreeNode* curr = q.front();
-                q.pop();
-                if(curr->left && !visited[curr->left]){
-                    q.push(curr->left);
-                    visited[curr->left] = true;
-                }
-
-                if(curr->right && !visited[curr->right]){
-                    q.push(curr->right);
-                    visited[curr->right] = true;
-                }
-                if(parent_track[curr] && !visited[parent_track[curr]]){
-                    q.push(parent_track[curr]);
-                    visited[parent_track[curr]] = true;
-                }
-            }
-            cur_level++;
-
-        }
-        return cur_level-1;
+        dfs(root, target);
+        return result;
     }
 };
-
