@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0890-lemonade-change](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/mohitgupta02/Leetcode_ans/tree/master/1646-kth-missing-positive-number) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0721-accounts-merge](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0721-accounts-merge) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0935-orderly-queue](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0935-orderly-queue) |
 ## Heap (Priority Queue)
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohitgupta02/Leetcode_ans/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Design
 |  |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Union Find
 |  |
 | ------- |
