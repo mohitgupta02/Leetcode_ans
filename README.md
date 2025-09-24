@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/mohitgupta02/Leetcode_ans/tree/master/0802-k-th-smallest-prime-fraction) |
